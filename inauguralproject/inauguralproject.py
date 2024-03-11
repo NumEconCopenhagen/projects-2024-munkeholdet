@@ -14,6 +14,7 @@ class ConsumersClass:
         self.p1 = 1 # price for item 1 -> optimize w.r.t
         self.p2 = 1 # sets price for item 2 to numeraire
         #hej
+        #cancer
     def utility_function(self, consumer):
         "defines the utility function, given who the consumer is"
         #remove code below and return consumer A and B utility as a tuple
