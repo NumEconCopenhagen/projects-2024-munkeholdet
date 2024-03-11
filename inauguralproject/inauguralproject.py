@@ -16,7 +16,7 @@ class ConsumersClass:
 
     def utility_function(self, consumer):
         "defines the utility function, given who the consumer is"
-
+        #remove code below and return consumer A and B utility as a tuple
         
         if consumer == "A": # goods and calibration for consumer A
             x_1 = self.omega_A1
@@ -34,12 +34,15 @@ class ConsumersClass:
 
         return x_1**cal * x_2**(1-cal) # utility calculation
     
-    def goods_equilibrium(self, consumer):
+    def goods_equilibrium(self):
         # Define the optimal solution for each consumer
+
         x_1Astar = self.alpha * (self.p1*self.omega_A1 + self.p2 * self.omega_A2)/self.p1
         x_2Astar = (1-self.alpha) * (self.p1 * self.omega_A2 + self.p2 * self.omega_A2)/self.p2
         x_1Bstar = self.beta * (self.p1*self.omega_B1 + self.p2 * self.omega_B2)/self.p1
         x_2Bstar = (1-self.beta) * (self.p1 * self.omega_B2 + self.p2 * self.omega_B2)/self.p2
+
+        #return tuple of optimal goods.
 
 #class ExchangeEconomyClass:
     
