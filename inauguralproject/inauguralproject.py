@@ -18,7 +18,8 @@ class ConsumersClass:
         #fuck af. Vi prøver igen
     def utility_function(self, consumer):
         "defines the utility function, given who the consumer is"
-        #remove code below and return consumer A and B utility as a tuple
+        # remove code below and return consumer A and B utility as a tuple, 
+        # or provide new seperate function for for utility for consumer A and B
         
         if consumer == "A": # goods and calibration for consumer A
             x_1 = self.omega_A1
