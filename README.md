@@ -1,9 +1,9 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- A Magnus Lyngby Sveistrup lnm418
+- B Thomas
+- C Noah
 
 This repository contains  
 1. Inaugural project. 
