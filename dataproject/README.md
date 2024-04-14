@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled ** The development of the House Price Index and Real Wage Index** and is about seeing the development for real wages to see if it gets more difficult for house owners to finance a loan. 
+Our project is titled **The development of the House Price Index and Real Wage Index** and is about seeing the development for real wages to see if it gets more difficult for house owners to finance a loan. 
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
