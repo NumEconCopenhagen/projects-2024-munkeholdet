@@ -18,7 +18,9 @@ Out project is titled **Inagural Project** and is about an exchange economy mode
 
 The results of the project can be seen from running inauguralproject.ipynb. We find that the pareto improvement depicted by the edgeworth box makes both individuals better off,we find different optimal prices and belonging utilities depending on the different analyzed scenarios and depict all of these in a diagram. Lastly we simulate a scenario with random initial endowments and highlight the trade-offs between the goods and the diverse market conditions.
 
+
 Dependencies: Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+
 ------------------------------------------------------------------------------------------------------------------
 Our project is titled **The development of the House Price Index and Real Wage Index** and is about seeing the development for real wages to see if it gets more difficult for house owners to finance a loan.
 
