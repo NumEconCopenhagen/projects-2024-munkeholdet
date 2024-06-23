@@ -11,5 +11,5 @@ This repository contains
 3. Model project
 4. Exam_2024
 
-**The use of AI**
+**The use of AI:**
 We have used AI for structural purposes, for coding error correction and ideas, and overall proffreading.
