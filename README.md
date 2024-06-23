@@ -10,3 +10,6 @@ This repository contains
 2. Data project
 3. Model project
 4. Exam_2024
+
+**The use of AI**
+We have used AI for structural purposes, for coding error correction and ideas, and overall proffreading.
